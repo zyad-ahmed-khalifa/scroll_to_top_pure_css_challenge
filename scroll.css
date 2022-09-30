@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+div{
+    margin-bottom: 1000px;
+    padding: 20px;
+}
+a{
+    display: block;
+    background-color: #009688;
+    width: fit-content;
+    padding: 10px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    color: white;
+    text-decoration: none;
+}
